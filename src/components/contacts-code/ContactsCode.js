@@ -20,7 +20,7 @@ const socialsData = [
   {
     social: "Leetcode",
     link: "MK_BadKarma",
-    href: "https://www.leetcode.com/MkBadKarma",
+    href: "https://www.leetcode.com/Mk_BadKarma",
   },
 ];
 
