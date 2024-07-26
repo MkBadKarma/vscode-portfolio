@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/vscode-portfolio/static/css/main.a57cce85.css",
+    "main.js": "/vscode-portfolio/static/js/main.18593733.js",
+    "static/media/python.png": "/vscode-portfolio/static/media/python.4ee048ac494238a1731a.png",
+    "static/media/github-dark.png": "/vscode-portfolio/static/media/github-dark.515110eb17bfadf80049.png",
+    "static/media/dracula.png": "/vscode-portfolio/static/media/dracula.656b73570e5fa6b4797f.png",
+    "static/media/ayu.png": "/vscode-portfolio/static/media/ayu.5414d1d8140736cf77dc.png",
+    "static/media/night-owl.png": "/vscode-portfolio/static/media/night-owl.48ff1f75febc60a3664c.png",
+    "index.html": "/vscode-portfolio/index.html",
+    "main.a57cce85.css.map": "/vscode-portfolio/static/css/main.a57cce85.css.map",
+    "main.18593733.js.map": "/vscode-portfolio/static/js/main.18593733.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a57cce85.css",
+    "static/js/main.18593733.js"
+  ]
+}
